@@ -1,7 +1,7 @@
 ## System Specifications
- - Operating System: macOS Catalina 10.15.7
- - Processor: Intel Core i7
- - RAM: 16 GB
+ - Operating System: macOS Sequoia 15.6.1
+ - Processor: Apple M3 Pro
+ - RAM: 18 GB
 
 ## Software Versions Installed
 - Node.js: 24.7.0
